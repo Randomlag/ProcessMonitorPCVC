@@ -9,6 +9,13 @@ instances:
   
   - displayName: "hlife-misportal-mis"
     regex: ".*hlife-misportal-mis.jar"
+    
+  - displayName: "hlife-misportal-oauth"
+    regex: ".*hlife-misportal-oauth.jar"
+    
+  - displayName: "hlife-misportal-admin"
+    regex: ".*hlife-misportal-admin.jar"
+    
 
  # - displayName: "ssh"
  #   pid: "1056"
