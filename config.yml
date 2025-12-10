@@ -4,8 +4,8 @@ metricPrefix: "Custom Metrics|Process Monitor|"
 # displayName: required - Metrics to be reported under this name in Controller's Metric Browser
 # regex/pid/pidFile - process is fetched using this field
 instances:
-  - displayName: "Non-Assisted-PCVC"
-    regex: ".*Non-Assisted-PCVC.jar"
+  - displayName: "NonAssisted-PCVC"
+    regex: ".*NonAssisted-PCVC.jar"
   
   - displayName: "hlife-misportal-mis"
     regex: ".*hlife-misportal-mis.jar"
